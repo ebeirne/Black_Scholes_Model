@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+yfinance
+pandas
+numpy
+scikit-learn
+joblib
+fastapi
+uvicorn
+python-dotenv
