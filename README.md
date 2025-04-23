@@ -1,4 +1,4 @@
-## How the ML-Driven Black-Scholes Pricer Works
+## ML-Driven Black-Scholes Pricer
 
 This project builds a machine-learning approximation to the classical Black–Scholes option-pricing model, trained on real market data from the S & P 500. Instead of relying on a fixed volatility input, the model learns the true—and often imperfect—pricing surface observed in the market.
 
